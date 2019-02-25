@@ -1,17 +1,37 @@
-.container {
-    font-family: 'Russo One', sans-serif;
-}
-
 body {
-    background-image: url("../images/background.jpg");
+    background-image: url("../images/background2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
+.container {
+    font-family: 'Russo One', sans-serif;
 
-
-#triviaTitle {
-    text-align: center;
-    font-size: 450%;
-    padding-bottom: 40px;
-    color: turquoise;
 }
+
+.jumbotron {
+    text-align: center;
+    color:lightyellow;
+    background-color: darkred;
+}
+
+button, form, input {
+	margin: 10px;
+}
+
+
+label {
+    color: lightyellow;
+}
+
+.btn-default {
+    color: lightyellow;
+    font-size: x-large;
+}
+
+form {
+	margin: 15px;
+}
+input {
+	margin: 10px;
+}
+
