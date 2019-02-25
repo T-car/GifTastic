@@ -69,7 +69,8 @@ $(document).ready(function(){
         renderButtons();
         return false;
     })
-
+    // show the initial topics in the array
+    renderButtons();
 
     $(document).on("click", "#input", displayImg);
     $(document).on("click", ".gif", imageChangeState);
