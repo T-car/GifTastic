@@ -14,10 +14,6 @@ body {
     background-color: darkred;
 }
 
-button, form, input {
-	margin: 10px;
-}
-
 
 label {
     color: lightyellow;
