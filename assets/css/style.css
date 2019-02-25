@@ -1,0 +1,17 @@
+.container {
+    font-family: 'Russo One', sans-serif;
+}
+
+body {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#triviaTitle {
+    text-align: center;
+    font-size: 450%;
+    padding-bottom: 40px;
+    color: turquoise;
+}
